@@ -1,0 +1,37 @@
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CopyComplete
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CopyComplete
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.deps.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\BinaryProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\bin\Debug\netstandard2.0\DataProviderContract.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.AssemblyReference.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfoInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.AssemblyInfo.cs
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.csproj.CopyComplete
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\BinaryProvider\obj\Debug\netstandard2.0\BinaryProvider.pdb

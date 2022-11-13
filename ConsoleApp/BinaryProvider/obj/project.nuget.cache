@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mbn1GgnR6CUuPOxKQK9o7JjCcY+V28EDTEHoSoOMLRazXoFT59qV7Fo1xlMYk4yIYOfXeB4sHDI7I/DggqDThA==",
+  "success": true,
+  "projectFilePath": "D:\\2 курс\\1 семестр\\ООП\\Лабораторна робота 5\\ConsoleApp\\BinaryProvider\\BinaryProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

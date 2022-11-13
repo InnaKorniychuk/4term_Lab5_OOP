@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lNmzaFQ59xAah9RMC7FoRHRPpoBCoxEbrNvRgaJpBsTibN4uroXcGjciOwlMRzEjW5fnRuKWV8D6v1R4qm+2w==",
+  "success": true,
+  "projectFilePath": "D:\\2 курс\\1 семестр\\ООП\\Лабораторна робота 5\\ConsoleApp\\DataProviderContract\\DataProviderContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

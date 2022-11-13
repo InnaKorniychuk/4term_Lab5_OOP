@@ -1,0 +1,28 @@
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.deps.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\bin\Debug\netstandard2.0\DataProviderContract.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csproj.AssemblyReference.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfoInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.AssemblyInfo.cs
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\DataProviderContract\obj\Debug\netstandard2.0\DataProviderContract.pdb

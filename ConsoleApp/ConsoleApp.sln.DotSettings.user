@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Korniychuk_Inna\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_f4cba896\CoverageData\_ConsoleApp.323471767\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0d6f2b36_002D45b8_002D4fbb_002Db714_002D4a3ee32bf894/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Remove_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E4AEF48-5F72-4DAE-86E0-A87E95BEE5EB::.NETCoreApp,Version=v3.1::BLL.Tests.EntityServiceTests.Remove_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E4AEF48-5F72-4DAE-86E0-A87E95BEE5EB::.NETCoreApp,Version=v3.1::BLL.Tests.EntityServiceTests.Search_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c547fe8_002D525f_002D42f3_002Dbb1f_002Da64613dbc8a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Search_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

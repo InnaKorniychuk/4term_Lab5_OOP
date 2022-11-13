@@ -1,0 +1,61 @@
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CopyComplete
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CopyComplete
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.deps.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\PL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BLL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\BinaryProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DAL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\DataProviderContract.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\bin\Debug\netstandard2.0\JSONProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.AssemblyReference.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfoInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.AssemblyInfo.cs
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.csproj.CopyComplete
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\PL\obj\Debug\netstandard2.0\PL.pdb

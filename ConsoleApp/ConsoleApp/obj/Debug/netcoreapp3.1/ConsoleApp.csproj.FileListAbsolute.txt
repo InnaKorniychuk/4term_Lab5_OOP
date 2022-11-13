@@ -1,0 +1,79 @@
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 3\3v\StudentSerialization\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Frog\Desktop\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\PL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BinaryProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\DataProviderContract.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\JSONProvider.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
